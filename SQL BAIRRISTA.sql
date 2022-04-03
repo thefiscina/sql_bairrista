@@ -102,7 +102,7 @@ CREATE TABLE public.municipio
 --INSERT USUARIOS
 INSERT INTO public.usuario(
 	cpf, senha, nome, sobrenome, profissao, telefone, email, data_criacao, tipo_usuario, usuario_destaque)
-	VALUES ('15161840737', 'c79ab09d03850f7b556c59caddf5fc16' , 'Jonathas', 'Fiscina', 'Padeiro', '27995220221', 'jonathasfiscina@hotmail.com', '2022-04-02 18:10:30.791343', 1, false);
+	VALUES ('02342403003', 'c79ab09d03850f7b556c59caddf5fc16' , 'Desenvolvedor', 'Dev', 'Padeiro', '27995220221', 'desenvolvedor@hotmail.com', '2022-04-02 18:10:30.791343', 1, false);
 INSERT INTO public.usuario(
 	 cpf, senha, nome, sobrenome, profissao, telefone, email, data_criacao, tipo_usuario, usuario_destaque)
 	VALUES ('15261860737', 'c79ab09d03850f7b556c59caddf5fc16' , 'Mariana', 'Clara', 'Advogado', '27995220321', 'marianaclara@hotmail.com', '2022-04-02 18:10:30.791343', 1, false);
